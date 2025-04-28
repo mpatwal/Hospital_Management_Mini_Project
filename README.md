@@ -1,4 +1,4 @@
-                                                                       🏥✨ Hospital Management System 🚑 (Built with Java ☕ + MySQL 💾)
+    🏥✨ Hospital Management System 🚑 (Built with Java ☕ + MySQL 💾)
                                                                        
 This project is a simple Hospital Management System developed using Java and MySQL.
 The main goal of this project was to practice core Java concepts and learn how to connect a Java application with a MySQL database using JDBC.
